@@ -762,9 +762,3 @@ Together, these approaches form a more complete fraud-analysis framework:
 **Mehraveh** — Data Cleaning, EDA, Unsupervised Learning & Anomaly Detection  
 **Arian** — Supervised Machine Learning & Final Model Evaluation  
 **Parsa** — Feature Engineering, Feature Selection, UMAP & Optimization
-
----
-
-## 📄 License
-
-Add the project's chosen license here if applicable.
