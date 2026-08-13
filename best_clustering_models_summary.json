@@ -1,0 +1,24 @@
+{
+    "KMeans_GMM_Optimization": {
+        "best_method": "kmeans",
+        "best_umap_dimensions": 10,
+        "best_n_clusters": 13,
+        "best_ari": 0.07632495633651364,
+        "final_evaluation": {
+            "ari": 0.05494312200878545,
+            "calinski_harabasz": 4437.60009765625,
+            "davies_bouldin": 0.7440138620594514
+        }
+    },
+    "HDBSCAN_Optimization": {
+        "best_umap_dimensions": 2,
+        "best_min_cluster_size": 46,
+        "best_min_samples_ratio": 1.0,
+        "best_ari": 0.08289052039311058,
+        "final_evaluation": {
+            "ari": 0.078944860858108,
+            "calinski_harabasz": 5986.71142578125,
+            "davies_bouldin": 0.37096815618795975
+        }
+    }
+}
